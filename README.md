@@ -32,11 +32,11 @@ The **Bonhomie Event Management Website** simplifies the process of registering 
 
 ## Related Repositories
 
-- **Frontend Repository**: [Bonhomie Frontend](https://github.com/your-frontend-repo-link) <!-- Replace with your frontend repo link -->
+- **Frontend Repository**: [Bonhomie Frontend](https://github.com/LabbaiIrfan/bonhomie-frontend
 
 ## Hosted Website
 
-- **Live Website**: [Bonhomie Event Management](https://your-hosted-link.com) <!-- Replace with your hosted link -->
+- **Live Website**: [Bonhomie Event Management](https://bonhomie.aiktc.ac.in/)
 
 ## Installation and Setup
 
@@ -45,7 +45,7 @@ Follow these steps to set up the backend locally:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/your-backend-repo-link
-   cd backend
+   cd bonhomie-backend
    ```
 
 2. **Install Dependencies**:
@@ -87,12 +87,10 @@ Contributions are welcome! If you'd like to improve the project or fix any issue
 
 For any queries or feedback, feel free to reach out:
 
-- **Email**: your-email@example.com <!-- Replace with your email -->
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile/) <!-- Replace with your LinkedIn profile -->
+- **Email**: Labbaiirfan955@gmail.com
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/irfan-labbai-5085a0288/)
 
 ---
 
 Thank you for checking out this project!
-```
 
-This version provides a detailed explanation of the Bonhomie event, along with other relevant details. Let me know if you’d like any further refinements!
