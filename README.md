@@ -10,7 +10,7 @@ This repository contains the backend code for the **Bonhomie Event Management** 
 Bonhomie features:
 
 - **Sports Events**: Competitive sports like football, volleyball, BGMI (BattleGrounds Mobile India), and arm wrestling, promoting athleticism and teamwork.
-- - **Cultural Events**: Engaging activities such as Mushaira (poetry recitation), stand-up comedy, and treasure hunts that celebrate creativity and provide entertainment.  
+- **Cultural Events**: Engaging activities such as Mushaira (poetry recitation), stand-up comedy, and treasure hunts that celebrate creativity and provide entertainment.  
 - **Technical Events**: Competitions like AutoCAD design, PowerPoint presentations, poster-making, and OINM (Office and Internet Management) that enhance technical and creative skills.  
 
 The **Bonhomie Event Management Website** simplifies the process of registering for events, ensuring smooth communication and coordination between organizers and participants.
