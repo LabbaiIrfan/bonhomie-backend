@@ -8,9 +8,10 @@ This repository contains the backend code for the **Bonhomie Event Management** 
 **Bonhomie** is an annual event held at our college that brings together students and faculty to celebrate sports, technical, and cultural excellence. The event fosters camaraderie, teamwork, and creativity, offering a platform for students to showcase their talents and skills in various domains. 
 
 Bonhomie features:
-- **Sports Events**: Competitions like football, cricket, basketball, and other games promoting athleticism and teamwork.
-- **Technical Events**: Coding challenges, hackathons, and robotics competitions that encourage innovation and technical expertise.
-- **Cultural Events**: Activities like singing, dancing, art competitions, and drama performances that celebrate creativity and cultural heritage.
+
+- **Sports Events**: Competitive sports like football, volleyball, BGMI (BattleGrounds Mobile India), and arm wrestling, promoting athleticism and teamwork.
+- - **Cultural Events**: Engaging activities such as Mushaira (poetry recitation), stand-up comedy, and treasure hunts that celebrate creativity and provide entertainment.  
+- **Technical Events**: Competitions like AutoCAD design, PowerPoint presentations, poster-making, and OINM (Office and Internet Management) that enhance technical and creative skills.  
 
 The **Bonhomie Event Management Website** simplifies the process of registering for events, ensuring smooth communication and coordination between organizers and participants.
 
@@ -36,7 +37,7 @@ The **Bonhomie Event Management Website** simplifies the process of registering 
 
 ## Hosted Website
 
-- **Live Website**: [Bonhomie Event Management](https://bonhomie.aiktc.ac.in/)
+- **Live Website**: [Bonhomie AIKTC 2025](https://bonhomie.aiktc.ac.in/)
 
 ## Installation and Setup
 
